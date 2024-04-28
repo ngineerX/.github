@@ -1,4 +1,4 @@
-# Welcome to DeCoders! 🌈
+# Welcome to DeCoders! 
 
 ## About Us
 DeCoders is a community-driven organization passionate about coding, collaboration, and innovation. We specialize in various domains including web app development, mobile app development, graphic design, website development, student assignments, software solutions, cloud solutions, and enterprise solutions.
@@ -9,11 +9,11 @@ We welcome contributions from everyone! Whether you're a seasoned developer, a d
 - **Design Contributions**: Help us create beautiful and functional designs for our projects.
 - **Documentation**: Improve our documentation to make it more comprehensive and accessible.
 
-Check out our [Contribution Guidelines](https://decoders.live/#projects) for more details.
+Check out our [Projects](https://decoders.live/#projects) for more details.
 
 ## Useful Resources
-- **Website**: Visit our [docs](https://decoders.live) for detailed information on our projects.
-- **GitHub Repositories**: Explore our projects on [GitHub](https://github.com/orgs/Team-DeCoders/repositories).
+- **Website**: Visit our [Website](https://decoders.live) for detailed information on our projects.
+- **GitHub Repositories**: Explore our projects on [GitHub Repositories](https://github.com/orgs/Team-DeCoders/repositories).
 
 ## Fun Facts
 Ever wondered what fuels our team's creativity? Here are some of our favorite breakfast items:
